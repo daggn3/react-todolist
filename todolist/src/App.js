@@ -1,5 +1,5 @@
 import React from "react"
-import TodoItem from "./components/ToDoItem";
+import TodoItem from "./components/ToDoItems";
 import todosData from "./todosData";
 import './App.css';
 
